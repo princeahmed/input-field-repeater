@@ -1,0 +1,12 @@
+<div class="form-group row">
+<label for="features" class="col-sm-2 col-form-label">Features</label>
+<div class="col-sm-10" id="features-container">
+    <div class="input-group mb-3">
+        <input type="text" value="" class="form-control form-control-square" id="features" name="features[]">
+        <div class="input-group-append">
+            <a href="#" class="btn btn-gradient-ibiza remove-feature d-none"><i class="fa fa-minus"></i></a>
+            <a href="#" class="btn btn-gradient-quepal add-feature"><i class="fa fa-plus"></i></a>
+        </div>
+    </div>
+</div>
+</div>
